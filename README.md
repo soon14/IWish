@@ -1,13 +1,23 @@
-未来有那么一伙人，\
-它可以帮助你验证实现你的想法，\
-有些人做评估,\
-有些做方案，\
-有些人出钱，\
-有些出人劳力，\
-每个人的付出按工时计算，\
-每个工种按给社区贡献分等级，\
-不同等级收益不同，\
-价值由社区市场衡定，\
+未来有那么一伙人，
+
+它可以帮助你验证实现你的想法，
+
+有些人做评估,
+
+有些人做方案，
+
+有些人出钱，
+
+有些人出劳力，
+
+每个人的付出按工时计算，
+
+每个工种按给社区贡献分等级，
+
+不同等级收益不同，
+
+价值由社区市场衡定，
+
 最终的成果大家按贡献比例分享。
 
 
@@ -19,11 +29,11 @@ It can help you validate your ideas,
 
 Some people do assessments,
 
-Some solutions,
+Some people make plans,
 
 Some people pay,
 
-Some of them are laboring,
+Some people work,
 
 Each person's payment is based on working hours,
 
