@@ -9,3 +9,28 @@
 不同等级收益不同，\
 价值由社区市场衡定，\
 最终的成果大家按贡献比例分享。
+
+
+
+
+There will be a group of people in the future,
+
+It can help you validate your ideas,
+
+Some people do assessments,
+
+Some solutions,
+
+Some people pay,
+
+Some of them are laboring,
+
+Each person's payment is based on working hours,
+
+Each type of work is graded according to its contribution to the community,
+
+Different levels of income are different,
+
+The value is determined by the community market,
+
+The final results will be shared according to the contribution proportion.
